@@ -4,4 +4,3 @@ class QuoteItem(Item):
     text = Field()
     tags = Field()
     author = Field()
-    test = Field()
